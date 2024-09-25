@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project demonstrates the integration of **Power BI** and **Python** to create interactive visualizations and insights related to car sales. The dashboard provides an in-depth analysis of car models, their sales, and customer information. It combines the data manipulation and analysis power of Python with the dynamic visualization capabilities of Power BI.
+![image](https://github.com/user-attachments/assets/fa7fe59b-3d62-4d57-9854-90c7cbea0f8d)
 
 ## Features
 
