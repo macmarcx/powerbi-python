@@ -1,7 +1,3 @@
-Here's a draft for your README in English:
-
----
-
 # Power BI and Python Integration - Car Sales Dashboard
 
 ## Project Overview
