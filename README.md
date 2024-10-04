@@ -22,7 +22,7 @@ This project demonstrates the integration of **Power BI** and **Python** to crea
 1. **Data Preparation**: Ensure you have the required car sales data in CSV format. If needed, adjust the data preprocessing steps in the Python script.
 2. **Python Script**: Run the Python script to clean the data, perform analysis, and export necessary results for Power BI.
 3. **Power BI Dashboard**: Open the Power BI file and link it to the processed data from Python. Adjust visualizations as needed.
-4. **Custom Analysis**: Modify the Python code or Power BI layout to suit additional needs or data sources.
+4. **Custom Analysis**: Modify the Python code or Power BI layout to suit additional needs or data sources. 
 
 ## Installation and Dependencies
 
