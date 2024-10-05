@@ -44,7 +44,7 @@ Download and install Power BI Desktop from [here](https://powerbi.microsoft.com/
 3. Open the Power BI file and refresh the data sources to update the dashboard.
 4. Explore the visualizations to gain insights into car models, sales, and customer trends.
 
-## Contributions
+## Contributions 
 
 Feel free to open issues or submit pull requests if you would like to contribute to the project.
 
