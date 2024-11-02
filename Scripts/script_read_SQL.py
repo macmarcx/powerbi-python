@@ -5,7 +5,7 @@ import pandas as pd
 #Connect SQL
 with sqlite3.connect(r"C:\Users\marco\Documents\powerbi-python\Scripts\car_sales.db") as connection:
     df = pd.read_sql_query("SELECT * FROM sales", connection)
-# cars
+# cars list
 cars = df[
     [
         "vin",
