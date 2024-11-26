@@ -18,6 +18,6 @@ cars = df[
         "investment",
     ]
 ]
-# Customer and Sales 
+# Customer and Sales
 customers = df[["vin", "customer"]] 
 sales = df[["vin", "sale_price", "sale_date"]]
